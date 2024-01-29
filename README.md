@@ -1,1 +1,2 @@
 # Network-For-Animals
+ Collaborated with the IT department to optimize the CRM database. Produced monthly reports to analyze and highlight trends in product sales, customer behavior, and responses across diverse marketing channels. Engineered efficient stored procedures to automate and enhance customer journeys, spanning from lead generation to successful customer conversion. Implemented champion-challenger systems to drive continuous innovation and improvement in the customer acquisition process.
